@@ -59,6 +59,7 @@ when writing back the response in PlatformToPortal.txt, adds this request ID to 
 details.
 
 The user can type any of the following commands:
+
 ● List Category SortOrder
 
 ○ shows list of products belonging to Category from all sellers who have that
